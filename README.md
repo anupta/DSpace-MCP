@@ -2,7 +2,7 @@
     "DSpace MCP": {
       "command": "python",
       "args": [
-        "C:\\Users\\Anupta Jana\\Desktop\\mcp\\dspace\\server.py",
-        "C:\\Users\\Anupta Jana\\Desktop\\mcp\\dspace\\config.ini"
+        "C:\\Users\\Anupta\\Desktop\\mcp\\dspace\\server.py",
+        "C:\\Users\\Anupta\\Desktop\\mcp\\dspace\\config.ini"
       ]
     }
